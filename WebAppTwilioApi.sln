@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppTwilioApi", "WebAppTwilioApi.csproj", "{D4959A96-9F53-4D09-8FA3-263DA8B5B489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4959A96-9F53-4D09-8FA3-263DA8B5B489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4959A96-9F53-4D09-8FA3-263DA8B5B489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4959A96-9F53-4D09-8FA3-263DA8B5B489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4959A96-9F53-4D09-8FA3-263DA8B5B489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE1895C7-87D3-4F39-898E-B2298EC598B9}
+	EndGlobalSection
+EndGlobal
